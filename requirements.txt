@@ -1,10 +1,17 @@
-flask==2.3.3
-werkzeug==2.3.7
-langchain==0.0.267
-openai==0.28.0
-python-dotenv==0.19.0
-boto3==1.28.0
-chromadb==0.4.0
-pypdf==3.9.0
+# Web Framework
+flask==3.0.0
+werkzeug==3.0.1
+
+# AI & LLM Orchestration
+langchain==0.0.350
+openai==0.28.1
+python-dotenv==1.0.0
+
+# Vector Database & AWS
+boto3==1.28.62
+chromadb==0.4.15
 tiktoken==0.5.1
+
+# Document Processing
+pypdf==3.17.0
 unstructured==0.10.30
