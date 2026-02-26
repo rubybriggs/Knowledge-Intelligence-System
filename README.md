@@ -29,4 +29,3 @@ python app/main.py
 ```
 
 
-# 592444418608.dkr.ecr.us-east-1.amazonaws.com/knowledgeintelligencesystem
